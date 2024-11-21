@@ -1,6 +1,6 @@
 title: "kurome's note"
 author: "kurome"
-# description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Created with Jekyll and contrast <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
