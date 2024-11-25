@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>My fancy blog</title><link>http://example.com/blog/index.html</link>
+<channel><title>kurome's note</title><link>https://kuromedayo.github.io/index.html</link>
 <description>A blog about turtles and carrots</description><language>en</language>
-<lastBuildDate>Mon, 25 Nov 2024 19:03:55 +0900</lastBuildDate>
-<pubDate>Mon, 25 Nov 2024 19:03:55 +0900</pubDate>
-<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<lastBuildDate>Mon, 25 Nov 2024 21:59:13 +0900</lastBuildDate>
+<pubDate>Mon, 25 Nov 2024 21:59:13 +0900</pubDate>
+<atom:link href="https://kuromedayo.github.io/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Title on this line
+</title><description><![CDATA[
+
+<p>The rest of the text file is a <strong>Markdown</strong> blog post. The process will continue
+as soon as you exit your editor.</p>
+
+<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_beware-with-underscores-in-markdown.html'>beware-with-underscores-in-markdown</a>, <a href='tag_example.html'>example</a></p>
+
+<!-- text end -->
+]]></description><link>https://kuromedayo.github.io/title-on-this-line21084.html</link>
+<guid>https://kuromedayo.github.io/./title-on-this-line21084.html</guid>
+<dc:creator>kurome</dc:creator>
+<pubDate>Mon, 25 Nov 2024 20:22:35 +0900</pubDate></item>
+<item><title>
+Title on this line
+</title><description><![CDATA[
+
+<p>The rest of the text file is a <strong>Markdown</strong> blog post. The process will continue
+as soon as you exit your editor.</p>
+
+<p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_beware-with-underscores-in-markdown.html'>beware-with-underscores-in-markdown</a>, <a href='tag_example.html'>example</a></p>
+
+<!-- text end -->
+]]></description><link>https://kuromedayo.github.io/title-on-this-line4754.html</link>
+<guid>https://kuromedayo.github.io/./title-on-this-line4754.html</guid>
+<dc:creator>John Smith</dc:creator>
+<pubDate>Mon, 25 Nov 2024 20:11:20 +0900</pubDate></item>
 <item><title>
 My first blog dayo
 </title><description><![CDATA[
@@ -13,9 +41,10 @@ My first blog dayo
 as you exit your editor.</p>
 
 <p>Tags: <a href='tag_html.html'>html</a></p>
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/my-first-blog-dayo.html</link>
-<guid>http://example.com/blog/./my-first-blog-dayo.html</guid>
+]]></description><link>https://kuromedayo.github.io/my-first-blog-dayo.html</link>
+<guid>https://kuromedayo.github.io/./my-first-blog-dayo.html</guid>
 <dc:creator>John Smith</dc:creator>
 <pubDate>Mon, 25 Nov 2024 19:03:51 +0900</pubDate></item>
 <item><title>
@@ -26,9 +55,10 @@ Title on this line
 as you exit your editor.</p>
 
 <p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
+
 <!-- text end -->
-]]></description><link>http://example.com/blog/title-on-this-line.html</link>
-<guid>http://example.com/blog/./title-on-this-line.html</guid>
+]]></description><link>https://kuromedayo.github.io/title-on-this-line.html</link>
+<guid>https://kuromedayo.github.io/./title-on-this-line.html</guid>
 <dc:creator>John Smith</dc:creator>
 <pubDate>Mon, 25 Nov 2024 18:55:10 +0900</pubDate></item>
 </channel></rss>
