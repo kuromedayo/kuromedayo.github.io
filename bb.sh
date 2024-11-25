@@ -22,7 +22,7 @@ global_variables() {
     # Blog title
     global_title="kurome's note"
     # The typical subtitle for each blog
-    global_description="A blog about turtles and carrots"
+    global_description="技術的なこととか"
     # The public base URL for this blog
     global_url="https://kuromedayo.github.io"
 
