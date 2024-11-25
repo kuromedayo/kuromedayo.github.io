@@ -48,7 +48,7 @@ global_variables() {
     global_feedburner=""
 
     # Change this to your username if you want to use twitter for comments
-    global_twitter_username=""
+    global_twitter_username="@NeetKurome"
     # Default image for the Twitter cards. Use an absolute URL
     global_twitter_card_image=""
     # Set this to false for a Twitter button with share count. The cookieless version
