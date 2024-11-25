@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>kurome's note</title><link>https://kuromedayo.github.io/index.html</link>
-<description>A blog about turtles and carrots</description><language>en</language>
-<lastBuildDate>Mon, 25 Nov 2024 21:59:13 +0900</lastBuildDate>
-<pubDate>Mon, 25 Nov 2024 21:59:13 +0900</pubDate>
+<description>技術的なこととか</description><language>en</language>
+<lastBuildDate>Mon, 25 Nov 2024 22:31:35 +0900</lastBuildDate>
+<pubDate>Mon, 25 Nov 2024 22:31:35 +0900</pubDate>
 <atom:link href="https://kuromedayo.github.io/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 Title on this line
@@ -13,6 +13,7 @@ Title on this line
 as soon as you exit your editor.</p>
 
 <p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_beware-with-underscores-in-markdown.html'>beware-with-underscores-in-markdown</a>, <a href='tag_example.html'>example</a></p>
+
 
 <!-- text end -->
 ]]></description><link>https://kuromedayo.github.io/title-on-this-line21084.html</link>
@@ -28,6 +29,7 @@ as soon as you exit your editor.</p>
 
 <p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_beware-with-underscores-in-markdown.html'>beware-with-underscores-in-markdown</a>, <a href='tag_example.html'>example</a></p>
 
+
 <!-- text end -->
 ]]></description><link>https://kuromedayo.github.io/title-on-this-line4754.html</link>
 <guid>https://kuromedayo.github.io/./title-on-this-line4754.html</guid>
@@ -42,6 +44,7 @@ as you exit your editor.</p>
 
 <p>Tags: <a href='tag_html.html'>html</a></p>
 
+
 <!-- text end -->
 ]]></description><link>https://kuromedayo.github.io/my-first-blog-dayo.html</link>
 <guid>https://kuromedayo.github.io/./my-first-blog-dayo.html</guid>
@@ -55,6 +58,7 @@ Title on this line
 as you exit your editor.</p>
 
 <p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
+
 
 <!-- text end -->
 ]]></description><link>https://kuromedayo.github.io/title-on-this-line.html</link>
